@@ -3,14 +3,12 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Home Repair Website Template</title>
+    <title>RichSeventeen</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
 
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
-
+  
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -49,7 +47,7 @@
                 </div>
                 <div class="h-100 d-inline-flex align-items-center border-end px-3">
                     <small class="far fa-envelope-open me-2"></small>
-                    <small>info@example.com</small>
+                    <small>noma.humphrey@richseventeen.com</small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center border-end px-3">
                     <small class="far fa-clock me-2"></small>
@@ -72,7 +70,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
         <a href="index.html" class="navbar-brand d-flex align-items-center">
-            <h1 class="m-0"><i class="fa fa-building text-primary me-3"></i>LOGO</h1>
+            <h1 class="m-0" style="font-size:25px;">Rich<span style="color:#fda12b">Seventeen</span></h1>
         </a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -104,17 +102,18 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="img/carousel-1.jpg" alt="Image">
+                    <img class="w-100" src="img/myimg1.jpg" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-12 col-lg-10">
-                                    <h5 class="text-light text-uppercase mb-3 animated slideInDown">Welcome to Apex</h5>
-                                    <h1 class="display-2 text-light mb-3 animated slideInDown">A Construction & Renovation Company</h1>
+                                    <h5 class="text-light text-uppercase mb-3 animated slideInDown">Welcome to RichSeventeen</h5>
+                                    <h1 class="display-2 text-light mb-3 animated slideInDown">The Storytelling <br> Architects</h1>
                                     <ol class="breadcrumb mb-4 pb-2">
-                                        <li class="breadcrumb-item fs-5 text-light">Commercial</li>
-                                        <li class="breadcrumb-item fs-5 text-light">Residential</li>
-                                        <li class="breadcrumb-item fs-5 text-light">Industrial</li>
+									  
+                                        <li class="breadcrumb-item fs-5 text-light">E-commerce copywriting</li>
+                                        <li class="breadcrumb-item fs-5 text-light">Brand development</li>
+                                        <li class="breadcrumb-item fs-5 text-light">Storytelling</li>
                                     </ol>
                                     <a href="" class="btn btn-primary py-3 px-5">More Details</a>
                                 </div>
@@ -128,13 +127,14 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-12 col-lg-10">
-                                    <h5 class="text-light text-uppercase mb-3 animated slideInDown">Welcome to Apex</h5>
-                                    <h1 class="display-2 text-light mb-3 animated slideInDown">Professional Tiling & Painting Services</h1>
-                                    <ol class="breadcrumb mb-4 pb-2">
-                                        <li class="breadcrumb-item fs-5 text-light">Commercial</li>
-                                        <li class="breadcrumb-item fs-5 text-light">Residential</li>
-                                        <li class="breadcrumb-item fs-5 text-light">Industrial</li>
-                                    </ol>
+                                   <h5 class="text-light text-uppercase mb-3 animated slideInDown">Welcome to RichSeventeen</h5>
+                                    <h1 class="display-2 text-light mb-3 animated slideInDown">Weaving <br>E-commerce Tales</h1>
+                                     <ol class="breadcrumb mb-4 pb-2">
+                                       
+                                        <li class="breadcrumb-item fs-5 text-light">E-commerce copywriting</li>
+                                        <li class="breadcrumb-item fs-5 text-light">Brand development</li>
+                                        <li class="breadcrumb-item fs-5 text-light">Storytelling</li>
+									</ol>
                                     <a href="" class="btn btn-primary py-3 px-5">More Details</a>
                                 </div>
                             </div>
@@ -177,10 +177,10 @@
                     <div class="h-100">
                         <div class="border-start border-5 border-primary ps-4 mb-5">
                             <h6 class="text-body text-uppercase mb-2">About Us</h6>
-                            <h1 class="display-6 mb-0">Unique Solutions For Residentials & Industries!</h1>
+                            <h1 class="display-6 mb-0">Innovative E-commerce Narratives!</h1>
                         </div>
-                        <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                        <p>We specialize in crafting compelling E-commerce copywriting, strategic content solutions, brand development, and the art of storytelling. </p>
+                        <p class="mb-4">We transform your digital presence, bringing your brand's story to life with our expertise.</p>
                         <div class="border-top mt-4 pt-4">
                             <div class="row g-4">
                                 <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.1s">
@@ -205,7 +205,7 @@
     <!-- About End -->
 
 
-    <!-- Facts Start -->
+    <!-- Facts Start 
     <div class="container-fluid my-5 p-0">
         <div class="row g-0">
             <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
@@ -213,8 +213,8 @@
                     <img class="img-fluid w-100" src="img/fact-1.jpg" alt="">
                     <div class="facts-overlay">
                         <h1 class="display-1">01</h1>
-                        <h4 class="text-white mb-3">Construction</h4>
-                        <p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
+                        <h4 class="text-white mb-3">E-commerce copywriting</h4>
+                        <p class="text-white">Empowering online sales through compelling copy.</p>
                         <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                     </div>
                 </div>
@@ -224,8 +224,8 @@
                     <img class="img-fluid w-100" src="img/fact-2.jpg" alt="">
                     <div class="facts-overlay">
                         <h1 class="display-1">02</h1>
-                        <h4 class="text-white mb-3">Mechanical</h4>
-                        <p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
+                        <h4 class="text-white mb-3">Content strategy</h4>
+                        <p class="text-white">Strategic approaches that elevate your content for optimal engagement and impact.</p>
                         <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                     </div>
                 </div>
@@ -235,8 +235,8 @@
                     <img class="img-fluid w-100" src="img/fact-3.jpg" alt="">
                     <div class="facts-overlay">
                         <h1 class="display-1">03</h1>
-                        <h4 class="text-white mb-3">Architecture</h4>
-                        <p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
+                        <h4 class="text-white mb-3">Brand development</h4>
+                        <p class="text-white">Shaping brands that resonate and endure.</p>
                         <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                     </div>
                 </div>
@@ -246,18 +246,18 @@
                     <img class="img-fluid w-100" src="img/fact-4.jpg" alt="">
                     <div class="facts-overlay">
                         <h1 class="display-1">04</h1>
-                        <h4 class="text-white mb-3">Interior Design</h4>
-                        <p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
+                        <h4 class="text-white mb-3">Storytelling</h4>
+                        <p class="text-white">Weaving narratives that captivate and inspire.</p>
                         <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Facts End -->
+     Facts End -->
 
 
-    <!-- Features Start -->
+    <!-- Features Start 
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5">
@@ -313,7 +313,7 @@
             </div>
         </div>
     </div>
-    <!-- Features End -->
+     Features End -->
 
 
     <!-- Service Start -->
@@ -323,7 +323,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="border-start border-5 border-primary ps-4">
                         <h6 class="text-body text-uppercase mb-2">Our Services</h6>
-                        <h1 class="display-6 mb-0">Construction And Renovation Solutions</h1>
+                        <h1 class="display-6 mb-0">Creative Digital <br> Branding Solutions</h1>
                     </div>
                 </div>
                 <div class="col-lg-6 text-lg-end wow fadeInUp" data-wow-delay="0.3s">
@@ -333,20 +333,20 @@
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/service-1.jpg" alt="">
+                        <img class="img-fluid" src="img/myimg2.jpg" alt="">
                         <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3">Building Construction</h5>
-                            <p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>
+                            <h5 class="mb-3">E-commerce copywriting</h5>
+                            <p>Empowering online sales through compelling copy.</p>
                             <a class="small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/service-2.jpg" alt="">
+                        <img class="img-fluid" src="img/myimg3.jpg" alt="">
                         <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3">Home Maintainance</h5>
-                            <p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>
+                            <h5 class="mb-3">Content strategy</h5>
+                            <p>Strategic approaches that elevate your content for optimal engagement and impact.</p>
                             <a class="small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
@@ -355,46 +355,89 @@
                     <div class="service-item bg-light overflow-hidden h-100">
                         <img class="img-fluid" src="img/service-3.jpg" alt="">
                         <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3">Renovation and Painting</h5>
-                            <p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>
+                            <h5 class="mb-3">Brand development</h5>
+                            <p>Shaping brands that resonate and endure.</p>
                             <a class="small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/service-4.jpg" alt="">
+                        <img class="img-fluid" src="img/myimg1.jpg" alt="">
                         <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3">Wiring and installation</h5>
-                            <p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>
+                            <h5 class="mb-3">Storytelling</h5>
+                            <p>Weaving narratives that captivate and inspire.</p>
                             <a class="small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/service-5.jpg" alt="">
-                        <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3">Tiling and Painting</h5>
-                            <p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>
-                            <a class="small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
-                        </div>
+                
+            </div>
+        </div>
+    </div>
+    <!-- Service End -->
+
+
+
+
+<div class="container-fluid my-5 p-0">
+		
+		<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="margin-left:8%; margin-bottom:50px;">
+                    <div class="border-start border-5 border-primary ps-4">
+                        <h6 class="text-body text-uppercase mb-2">Our Clients</h6>
+                        <h1 class="display-6 mb-0" style="font-size:32px;">Nurturing partnerships <br>with tailored solutions.</h1>
+                    </div>
+        </div>
+        
+
+        
+        <div class="row g-0">
+            <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+                <div class="position-relative">
+                    <img class="img-fluid w-100" src="img/fact-1.jpg" alt="">
+                    <div class="facts-overlay">
+                        <h1 class="display-1">01</h1>
+                        <h4 class="text-white mb-3">Healthcare product developers</h4>
+                        <p class="text-white"></p>
+                        <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/service-6.jpg" alt="">
-                        <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3">Interior Design</h5>
-                            <p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>
-                            <a class="small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
-                        </div>
+            </div>
+            <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.3s">
+                <div class="position-relative">
+                    <img class="img-fluid w-100" src="img/fact-2.jpg" alt="">
+                    <div class="facts-overlay">
+                        <h1 class="display-1">02</h1>
+                        <h4 class="text-white mb-3">Luxury fashion houses</h4>
+                        <p class="text-white"></p>
+                        <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.5s">
+                <div class="position-relative">
+                    <img class="img-fluid w-100" src="img/fact-3.jpg" alt="">
+                    <div class="facts-overlay">
+                        <h1 class="display-1">03</h1>
+                        <h4 class="text-white mb-3">Beauty brands</h4>
+                        <p class="text-white"></p>
+                        <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.7s">
+                <div class="position-relative">
+                    <img class="img-fluid w-100" src="img/fact-4.jpg" alt="">
+                    <div class="facts-overlay">
+                        <h1 class="display-1">04</h1>
+                        <h4 class="text-white mb-3">Tech start-ups</h4>
+                        <p class="text-white"></p>
+                        <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Service End -->
 
 
     <!-- Appointment Start -->
@@ -598,7 +641,7 @@
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         
-                        Designed By <a href="https://freewebsitecreate.net">Free Website Create</a>
+                        Designed By <a href="https://freewebsitecreate.net">Wajih ul Hassan</a>
                     </div>
                 </div>
             </div>
