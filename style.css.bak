@@ -5,6 +5,7 @@
 	padding:0;
 	box-sizing:border-box;
 	font-family: 'DM Serif Display', serif;
+	overflow-x:hidden;
 
 }
 nav{
@@ -227,10 +228,6 @@ nav a:hover{
 	flex-direction:column;
 }
 .footerrow{
-	width:100%;
-	display:flex;
-	justify-content:space-between;
-	align-items:left;
 	padding:10px;
 	flex-direction:column;
 	

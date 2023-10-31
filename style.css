@@ -5,6 +5,7 @@
 	padding:0;
 	box-sizing:border-box;
 	font-family: 'DM Serif Display', serif;
+	
 
 }
 nav{
@@ -84,6 +85,7 @@ nav a:hover{
 	margin-bottom:50px;
 	display:flex;
 	flex-direction:column;
+	overflow:hidden;
 }
 .rowCustom{
 	width:100%;
