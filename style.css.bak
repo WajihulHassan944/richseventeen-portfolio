@@ -5,12 +5,12 @@
 	padding:0;
 	box-sizing:border-box;
 	font-family: 'DM Serif Display', serif;
-	overflow-x:hidden;
+	
 
 }
 nav{
 	position:fixed;
-	background: #3b1517;
+	background: #371414;
 	color:#fff;
 }
 nav a{
@@ -37,6 +37,9 @@ nav a:hover{
 	margin-right:0;
 
 }
+.navbar-brand img{
+	width:100px;
+}
 .navbar-brand span{
 	font-size:40px;
 }
@@ -46,8 +49,11 @@ nav a:hover{
 	align-items:center;
 	width:100%;
 	height:84.9vh;
-	background: #3b1517;
+	background: #371414;
 	color:#fff;
+}
+.containermine h1 img{
+	width:460px;
 }
 .containermine h1{
 	font-size:70px;
@@ -68,23 +74,21 @@ nav a:hover{
 
 .containermine2 h2{
 	margin-top:50px;
-	font-family:Calibri;
 	font-weight:500;
 	font-size:28px;
-	margin-bottom: 60px;
 	line-height:1.5;
+	font-weight:100;
 }
-#line1{
-	width:70%;
-	background:#000;
-	height:3px;}
+
+
 
 .containermine3{
 	width:100%;
-	margin-top:170px;
+	margin-top:10px;
 	margin-bottom:50px;
 	display:flex;
 	flex-direction:column;
+	overflow:hidden;
 }
 .rowCustom{
 	width:100%;
@@ -94,10 +98,11 @@ nav a:hover{
 	align-items:center;
 }
 .imgwrap{
-	width:490px;
-	height:380px;
+	width:350px;
+	height:320px;
 	border:4px solid #fff;
 	  position: relative;
+	  margin:20px;
 }
 .imgwrap img{
 	aspect-ratio:1;
@@ -138,6 +143,7 @@ nav a:hover{
 	background:#ffdcdc;
 	display:flex;
 	justify-content:center;
+	flex-direction:column;
 	align-items:center;
 	padding-top:50px;
 	margin-bottom:100px;
