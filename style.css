@@ -75,7 +75,7 @@ nav a:hover{
 .containermine2 h2{
 	margin-top:50px;
 	font-weight:500;
-	font-size:28px;
+	font-size:30px;
 	line-height:1.5;
 	font-weight:100;
 }
@@ -98,8 +98,8 @@ nav a:hover{
 	align-items:center;
 }
 .imgwrap{
-	width:350px;
-	height:320px;
+	width:320px;
+	height:260px;
 	border:4px solid #fff;
 	  position: relative;
 	  margin:20px;
@@ -156,6 +156,29 @@ nav a:hover{
 	font-size:35px;
 }
 
+.wordrowwrap{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin-top:20px;
+	
+}
+.wordrow1 , .wordrow2{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+}
+.wordrow1{
+	margin-right:100px;
+}
+.wordrow1 img, .wordrow2 img{
+	margin-bottom:70px;
+}
+
+
+
+
 
 .footer{
 	background:#fafafa;
@@ -206,7 +229,6 @@ nav a:hover{
 
 
 
-
 @media (max-width: 400px) {
 	
 .containermine h1{
@@ -238,5 +260,25 @@ nav a:hover{
 	flex-direction:column;
 	
 }
+
+
+
+
+
+
+
+
+.wordrowwrap{
+	flex-direction:column;
+	
+}
+.wordrow1{
+	margin-right:0px;
+}
+.wordrow1 img, .wordrow2 img{
+	margin-bottom:50px;
+}
+
+
 
 }
